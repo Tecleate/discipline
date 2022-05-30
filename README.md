@@ -9,7 +9,7 @@ como el QMK Toolbox.
 
 ![Discipline V2](https://i0.wp.com/tecleate.com/wp-content/uploads/2022/05/Discipline_1.webp)
 
-**Kits disponibles en [Tecleate](https://www.tecleate.com)**
+**Kits disponibles en [Tecleate](https://tecleate.com/product/disciplinev2/)**
 
 **[LICENCIA](LICENSE)**
 
