@@ -13,7 +13,7 @@ como el QMK Toolbox.
 
 **[LICENCIA](LICENSE)**
 
-Discipline V2 se publica bajo licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional (https://creativecommons.org/licenses/by-sa/4.0/).
+Discipline V2 se publica bajo licencia [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/).
 
 El contenido de este repositorio puede adaptarse y compartirse libremente para cualquier finalidad, incluso comercial, con las siguientes condiciones:
 
